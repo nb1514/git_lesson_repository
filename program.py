@@ -1,3 +1,3 @@
 # I am author
 print ("My first Git program!!!!")
-# изменения внесены вторично
+# 2018 (c) Me
